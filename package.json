@@ -1,0 +1,22 @@
+{
+  "name": "modern-landing-page-with-pricing",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@types/react": "^18.2.48",
+    "@types/react-dom": "^18.2.18",
+    "framer-motion": "^10.18.0",
+    "lucide-react": "^0.309.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.0.0",
+    "vite": "^5.0.0",
+    "tailwindcss": "^3.0.0"
+  }
+}
